@@ -1,48 +1,108 @@
-# 👋 Hi, I'm Mohan Midathana!
-### UI/UX Designer & Frontend Developer
+# 👋 Hi, I'm Mohan Midathana
 
-I bridge the gap between stunning visual design and clean, functional code. I focus on creating intuitive user experiences, interactive wireframes, and responsive digital products like SaaS dashboards and mobile applications.
+### 🎨 UI/UX Designer | 💻 Frontend Developer | 🚀 Creative Problem Solver
 
----
-
-## 🛠️ My Skills & Tool Stack
-
-| Phase | Tools & Technologies |
-| :--- | :--- |
-| **Design & Handoff** | Figma, Wireframing, Prototyping, Low/High-Fidelity Mockups, Visual Branding |
-| **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), Responsive Web Design |
-| **Developer Ecosystem** | Git, GitHub, AI-Assisted Development (Cursor, AI Coding Ecosystems) |
+I specialize in designing intuitive user experiences and building responsive web applications. My focus is on transforming ideas into clean, user-friendly digital products through modern design and frontend development.
 
 ---
 
-## 🧰 Featured Projects
+## 🚀 About Me
 
-### 💻 [new-portfolio](https://github.com/Mohanuiuxdeveloper/new-portfolio)
-An interactive portfolio website showcasing my academic knowledge, UI/UX services, and a functional experience timeline built using vanilla frontend technologies.
-
-### 🎨 [UIUX-Design--portfolio](https://github.com/Mohanuiuxdeveloper/UIUX-Design--portfolio)
-A dedicated space highlighting my design thinking, wireframing processes, mobile application screens, and high-fidelity SaaS dashboard prototypes.
-
-### 🍔 [Food-Lover](https://github.com/Mohanuiuxdeveloper/Food-Lover)
-A responsive frontend web application designed for food enthusiasts, focusing on clean user flows, appealing visual presentation, and seamless UI layouts.
-
-### 💱 [currency-converter](https://github.com/Mohanuiuxdeveloper/currency-converter)
-A functional JavaScript-driven web application that handles dynamic calculations and user inputs with a clean, intuitive, minimalist interface.
-
-### 🛒 [ecommerce](https://github.com/Mohanuiuxdeveloper/ecommerce)
-A frontend web application simulating a clean, modern e-commerce shopping experience with a heavy focus on user-centric layouts and fluid UI interactions.
+- 🎯 UI/UX Designer passionate about user-centered design
+- 💻 Frontend Developer with strong HTML, CSS & JavaScript skills
+- 🌱 Currently learning React.js and advanced UI systems
+- 🎨 Experienced with Figma, Prototyping & Design Systems
+- 📍 Based in India
+- 💼 Open to UI/UX Designer, Frontend Developer & Internship Opportunities
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Languages & Technologies
 
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohanuiuxdeveloper&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanuiuxdeveloper&layout=compact&theme=dark&hide_border=true)
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### Design & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode" />
+</p>
 
 ---
 
-## 🤝 Let's Connect!
-* 💼 **Open to:** Junior UI/UX Designer, Frontend Developer roles, and Internships.
-* ⚡ **Fun Fact:** I love combining psychological self-improvement frameworks with human-centered design to build better user habits.
+## 📊 GitHub Statistics
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL_HERE)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohanuiuxdeveloper&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanuiuxdeveloper&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanuiuxdeveloper&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 💼 Portfolio Website
+🔗 https://github.com/Mohanuiuxdeveloper/new-portfolio
+
+Modern portfolio website showcasing UI/UX projects, frontend skills, and professional journey.
+
+### 🎨 UI/UX Design Portfolio
+🔗 https://github.com/Mohanuiuxdeveloper/UIUX-Design--portfolio
+
+Collection of wireframes, prototypes, mobile app designs, and SaaS dashboard concepts.
+
+### 🍔 Food Lover
+🔗 https://github.com/Mohanuiuxdeveloper/Food-Lover
+
+Responsive food-themed website with clean layouts and engaging UI.
+
+### 💱 Currency Converter
+🔗 https://github.com/Mohanuiuxdeveloper/currency-converter
+
+JavaScript-powered currency conversion tool with intuitive user interactions.
+
+### 🛒 Ecommerce Website
+🔗 https://github.com/Mohanuiuxdeveloper/ecommerce
+
+Modern e-commerce frontend experience focused on usability and responsive design.
+
+---
+
+## 🎯 Current Focus
+
+- React.js Development
+- UI/UX Design Systems
+- SaaS Dashboard Design
+- AI-Assisted Product Design
+- Frontend Performance Optimization
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mohan-uiux">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mohanuiuxdeveloper">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:mmuiuxdeveloper@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=Mohanuiuxdeveloper&color=blue)
+
+⭐️ From Mohan Midathana
