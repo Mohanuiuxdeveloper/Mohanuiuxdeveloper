@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohan Midathana
 
-<h3 align="center">🎨 UI/UX Designer | 💻 Frontend Developer</h3>
+<h3 align="center">🎨 UI/UX Designer | 💻 Frontend Developer | Figma • HTML • CSS • JavaScript • React</h3>
 
 <p align="center">
 Creating user-centered digital experiences with Figma, HTML, CSS, JavaScript & React.
@@ -22,22 +22,24 @@ Creating user-centered digital experiences with Figma, HTML, CSS, JavaScript & R
 
 ---
 
-## 🚀 Portfolio
 
-🌐 Portfolio: https://mohanuiuxdeveloper.github.io/new-portfolio/
+## 🌐 Portfolio & Contact
+
+- Portfolio: https://mohanuiuxdeveloper.github.io/new-portfolio/
+- LinkedIn: https://linkedin.com/in/mohan-uiux
+- Email: mmuiuxdeveloper@gmail.com
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma,git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma,git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma,git,github,vscode" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+## 💼  Projects
 
 ### 🎨 UI/UX Design Portfolio
 
@@ -66,33 +68,32 @@ Creating user-centered digital experiences with Figma, HTML, CSS, JavaScript & R
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohanuiuxdeveloper&show_icons=true&theme=tokyonight" />
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohanuiuxdeveloper&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanuiuxdeveloper&theme=tokyonight" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohanuiuxdeveloper&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanuiuxdeveloper&layout=compact&theme=tokyonight" />
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanuiuxdeveloper&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Currently Learning
+## 🌱 Currently Learning
 
-* React.js
-* UI Design Systems
-* Frontend Performance
-* Accessibility (WCAG)
-* AI-Assisted Development
+- React.js
+- Advanced JavaScript
+- UI Design Systems
+- Responsive Web Applications
+- AI-Assisted Development
 
 ---
 
 ## 🏆 Certifications
 
-* Lloyds Banking Group UX Design Virtual Internship
-* Google Cloud Generative AI
-* UI/UX Design Certification
-* Figma Design Systems
-
+- Lloyds Banking Group UX Design Virtual Internship
+- Google Cloud Generative AI
+- UI/UX Design Certification
+- Figma Design Systems
 ---
 
 ⭐ Open to UI/UX Designer, Frontend Developer & Internship Opportunities
